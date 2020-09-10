@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+## WELCOME TO **TRV-13**
 
 - 🔭 I’m currently working on Application Development
 - 🌱 I’m currently learning React.JS
