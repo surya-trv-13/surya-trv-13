@@ -12,8 +12,15 @@
 <br />
 <br />
 <a href="https://github.com/surya-trv-13">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" alt="Surya's github stats"/></a>
+ <p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" alt="Surya's github stats"/>
+ </p>
+</a>
 
 <a href="https://github.com/surya-trv-13">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-trv-13&theme=highcontrast" alt="Surya's github stats"/></a>
+ <p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=surya-trv-13&theme=highcontrast" alt="Surya's github stats"/>
+ </p>
+</a>
+ 
 
