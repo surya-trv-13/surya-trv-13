@@ -7,20 +7,18 @@
 - 😄 Pronouns: Believe that you can and keep coding 💻
 - ⚡ Fun fact: I am an INTROVERT
 
-
 **GitHub Stats**
 <br />
 <br />
 <a href="https://github.com/surya-trv-13">
+
  <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" alt="Surya's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" alt="Surya's github stats"/>
  </p>
 </a>
 
 <a href="https://github.com/surya-trv-13">
  <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=surya-trv-13&theme=highcontrast" alt="Surya's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=surya-trv-13&theme=highcontrast" alt="Surya's github stats"/>
  </p>
 </a>
- 
-
