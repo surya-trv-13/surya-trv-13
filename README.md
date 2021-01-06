@@ -13,7 +13,7 @@
 <a href="https://github.com/surya-trv-13">
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv 13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" height="165" alt="Surya's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" alt="Surya's github stats"/>
  </p>
 </a>
 
