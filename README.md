@@ -13,7 +13,9 @@
 <a href="https://github.com/surya-trv-13">
 
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&hide=jupyter%20notebook&show_icons=true&theme=cobalt" alt="Surya's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv 13&hide=jupyter%20notebook&show_icons=true&theme=cobalt"&count_private=true&hide=Jupyter%20Notebook&title_color=fff" height="165" alt="Surya's github stats"/>
+  &nsbp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&layout=compact&theme=dracula&count_private=true&hide=Jupyter%20Notebook&title_color=fff" height="165">
  </p>
 </a>
 
