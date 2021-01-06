@@ -20,7 +20,5 @@
 <a href="https://github.com/surya-trv-13">
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=surya-trv-13&theme=highcontrast" alt="Surya's github stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&layout=compact&theme=dracula&count_private=true&hide=Jupyter%20Notebook&title_color=fff" height="165">
  </p>
 </a>
