@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React.JS
 - 💬 Ask me about **COdInG**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/suryanarayan-rath-13trv/)
-- 🤑 Visit Me: [surya-trv-13](https://http://surya-trv-13.herokuapp.com/)
+- 🤑 Visit Me: [surya-trv-13](https://surya-trv-13.herokuapp.com/)
 - 😄 Pronouns: Believe that you can and keep coding 💻
 - ⚡ Fun fact: I am an INTROVERT
 
