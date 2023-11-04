@@ -25,8 +25,11 @@
 </a>
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surya-trv-13&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
----
+<a href="https://git.io/streak-stats">
+ <p align="center">
+  <img src="https://streak-stats.demolab.com?user=surya-trv-13&theme=dark&hide_border=true" alt="GitHub Streak" />
+ </p>
+</a>
 
 
   
