@@ -1,6 +1,6 @@
 ## WELCOME TO _TRV-13_
 
--# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on Application Development<br>🌱 I’m currently learning React.JS<br>💬 Ask me about COdInG<br>📫 How to reach me: LinkedIn<br>😄 Pronouns: Believe that you can and keep coding 💻<br>⚡ Fun fact: I am an INTROVERT
 
 
