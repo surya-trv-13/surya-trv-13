@@ -1,5 +1,5 @@
-## WELCOME TO _TRV-13_
-
+## WELCOME TO _TRV-13_ 
+[![](https://visitcount.itsvg.in/api?id=surya-trv-13&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on Application Development<br>🌱 I’m currently learning React.JS<br>💬 Ask me about COdInG<br>📫 How to reach me: LinkedIn<br>😄 Pronouns: Believe that you can and keep coding 💻<br>⚡ Fun fact: I am an INTROVERT
 
@@ -18,7 +18,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=surya-trv-13&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=surya-trv-13&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 
   
