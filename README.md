@@ -9,6 +9,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=surya-trv-13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-trv-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="left">
+<img src="https://github-readme-stats.rahulbordoloi.vercel.app/api?username=surya-trv-13&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>
+</p>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=surya-trv-13&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
